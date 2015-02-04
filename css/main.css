@@ -50,6 +50,7 @@ nav a:hover {
 p {
   font-family: Georgia;
   padding: 0.5em;
+  font-size: 0.75em;
 }
 
 blockquote {
@@ -89,4 +90,31 @@ figcaption {
   font-weight: normal;
   line-height: 1;
   text-align: center;
+}
+
+dl {
+  line-height: 1em;
+}
+
+dt {
+  font-family: Georgia;
+  font-size: 0.75em;
+  margin-left: 0.5em;
+}
+
+dd {
+  font-family: Georgia;
+  font-size: 0.75em;
+  margin-left: 0.5em;
+}
+
+footer {
+  background-color: #ffe524;
+  margin: 0;
+  padding: 1em;
+  text-align: center;
+}
+
+footer a {
+  color: #b32f52;
 }
