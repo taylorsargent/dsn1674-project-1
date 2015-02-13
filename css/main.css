@@ -82,6 +82,7 @@ figure {
   padding: 0.5em;
   background-color: #fffce0;
   text-align: center;
+  width: 100%;
 }
 
 figcaption {
@@ -125,4 +126,8 @@ footer a {
   margin-left: 5.5em;
   font-size: 2.5em;
   color: #b2a215;
+}
+
+img {
+  width: 100%;
 }
